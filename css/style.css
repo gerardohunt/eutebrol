@@ -1,0 +1,30 @@
+body{
+	margin:0;
+	padding:0;
+}
+#contenedor {
+	background-color:#fff;
+	display: block;
+	height: 752px;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	width: 1280px;
+}
+/*PORTADA*/
+#fondo{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+#btnSiguiente{
+	position: absolute;
+    right: 50px;
+    top: 40px;
+
+}
+#Logo{
+	position: absolute;
+    top: 300px;
+    left: 42px;
+}
