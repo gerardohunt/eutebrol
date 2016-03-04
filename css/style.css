@@ -125,15 +125,62 @@ body{
     bottom: 277px;
     left: 179px;
 }
+#logo1{
+	position: absolute;
+    top: 20px;
+    left: 567px;
+}
 
+/*slide 3*/
+#img17{
+	position: absolute;
+    left: 0;
+    top: 143px;
+}
 
+#img18{
+	position: absolute;
+    top: 290px;
+    left: 115px;
+}
 
+#img19{
+	position: absolute;
+    left: 183px;
+    top: 338px;
+}
 
+#img20{
+	position: absolute;
+    left: 266px;
+    top: 329px;
+}
+#img21{
+	position: absolute;
+    left: 270px;
+    top: 328px;
+}
 
-
-
-
-
+#img22{
+	position: absolute;
+    top: 335px;
+    right: 45px
+}
+#img16{
+	position: absolute;
+    right: 53px;
+    top: 181px;
+}
+#img24{
+	position: absolute;
+    top: 195px;
+    left: 42px;
+}
+#img23{
+	position: absolute;
+    bottom: 5px;
+    left: 20px;
+}
 
 
 

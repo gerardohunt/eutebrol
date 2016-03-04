@@ -6,27 +6,37 @@
 	<link rel="stylesheet" type="text/css" href="css/animate.css">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="css/delays.css">
+  <link rel="stylesheet" type="text/css" href="css/lightbox.css">
 	<script src="js/modernizr.custom.js"></script>
 </head>
 <body id="touch">
 	<div id="contenedor">
 		<!--Menu-->
-		<div id="btnSiguiente" class="animated fadeInDown"><a href="slide_3.html"><img src="genericos/next.png"></a></div>
+		<div id="btnSiguiente" class="animated fadeInDown"><a href="slide_4.html"><img src="genericos/next.png"></a></div>
 		<div id="home" class="animated fadeIn"><a href="index.html"><img src="genericos/home.png"></a></div>
-		<div id="btnAnterior" class="animated fadeInDown"><a href="slide_1.html"><img src="genericos/back.png"></a></div>
+		<div id="btnAnterior" class="animated fadeInDown"><a href="slide_2.html"><img src="genericos/back.png"></a></div>
 
 		 <button type="button" id="trigger-overlay" class="animated fadeInLeft"></button>
 		<!--Menu-->
 
     <div id="logo1" class="animated fadeInUp"><img src="genericos/logo.png"></a></div>
-		<div id="img08" class="animated fadeIn"> <img src="slide2/bullet-1.png"></div>
-		<div id="img09" class="animated fadeIn"> <img src="slide2/bullet-2.png"></div>
-		<div id="img10" class="animated fadeIn"> <img src="slide2/bullet-3.png"></div>
-		<div id="img11" class="animated fadeIn"> <img src="slide2/bullet-4.png"></div>
-		<div id="img12" class="animated fadeIn"> <img src="slide2/bullet-5.png"></div>
-		<div id="img13" class="animated fadeIn"> <img src="slide2/img-1.png"></div>
-		<div id="img14" class="animated fadeIn"> <img src="slide2/img-2.png"></div>
-    <div id="img15" class="animated fadeInDown"> <img src="slide2/txt-1.png"></div>
+
+		<div id="img16" class="animated fadeIn"> <img src="slide3/element.png"></div>
+		<div id="img17" class="animated fadeIn"> <img src="slide3/fondo-1.png"></div>
+
+
+    <a class="example-image-link" href="slide3/grafica-LG.png" data-lightbox="lightbox">
+      <div class="lightbox-image">
+		<div id="img18" class="animated fadeIn"> <img src="slide3/fondo-2.png"></div>
+		<div id="img19" class="animated fadeIn"> <img src="slide3/grafica-1.png"></div>
+		<div id="img20" class="animated fadeIn"> <img src="slide3/grafica-2.png"></div>
+		<div id="img21" class="animated fadeIn"> <img src="slide3/grafica-3.png"></div>
+    </div>
+    </a>
+    <div id="img24" class="animated fadeInDown"><img src="slide3/txt-1.png"></div>
+		<div id="img22" class="animated fadeIn"> <img src="slide3/img-1.png"></div>
+    <div id="img23" class="animated fadeInDown"> <img src="slide3/ref.png"></div>
+    
 
 
 
@@ -62,10 +72,10 @@
   	<script>
     
     Hammer(document.getElementById('touch')).on('swipeleft', function(e) {
-           window.location.href = "slide_3.html";
+           window.location.href = "slide_4.html";
     });
     Hammer(document.getElementById('touch')).on('swiperight', function(e) {
-           window.location.href = "slide_1.html";
+           window.location.href = "slide_2.html";
     });
 
   	</script>

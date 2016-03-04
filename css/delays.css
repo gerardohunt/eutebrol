@@ -9,7 +9,7 @@
 	-o-animation-delay: 1s;
 	animation-delay: 1s;
 }
-#Logo{
+#Logo, #logo1{
 	-webkit-animation-delay: 1.2s;
 	-o-animation-delay: 1.2s;
 	animation-delay: 1.2s;
@@ -20,37 +20,37 @@
 	animation-delay: 1.5s;
 	animation-duration: 3s;
  }
- #img03, #img15{
+ #img03, #img15, #img17{
  	-webkit-animation-delay: 1.9s;
 	-o-animation-delay: 1.9s;
 	animation-delay: 1.9s;
 	animation-duration: 2s;
  }
- #img08{
+ #img08, #img24{
 	-webkit-animation-delay: 2.2s;
 	-o-animation-delay: 2.2s;
 	animation-delay: 2.2s;
 	animation-duration: 2s;
 }
- #img09{
+ #img09, #img18{
 	-webkit-animation-delay: 2.6s;
 	-o-animation-delay: 2.6s;
 	animation-delay: 2.6s;
 	animation-duration: 2s;
 }
- #img10{
+ #img10, #img19{
 	-webkit-animation-delay: 3s;
 	-o-animation-delay: 3s;
 	animation-delay: 3s;
 	animation-duration: 2s;
 }
-#img11{
+#img11, #img20{
 	-webkit-animation-delay: 3.4s;
 	-o-animation-delay: 3.4s;
 	animation-delay: 3.4s;
 	animation-duration: 2s;
 }
-#img12{
+#img12, #img21{
 	-webkit-animation-delay: 3.8s;
 	-o-animation-delay: 3.8s;
 	animation-delay: 3.8s;
@@ -62,19 +62,19 @@
 	-o-animation-delay: 2.2s;
 	animation-delay: 2.2s;
 }
-#img02{
+#img02, #img22{
 	-webkit-animation-delay: 2.6s;
 	-o-animation-delay: 2.6s;
 	animation-delay: 2.6s;
 	animation-duration: 2s;
 }
-#img01, #img13{
+#img01, #img13, #img16, #img23{
 	-webkit-animation-delay: 3.4s;
 	-o-animation-delay: 3.4s;
 	animation-delay: 3.4s;
 	animation-duration: 4s;
 }
-#img14{
+#img14, #img16{
 	-webkit-animation-delay: 3.8s;
 	-o-animation-delay: 3.8s;
 	animation-delay: 3.8s;
