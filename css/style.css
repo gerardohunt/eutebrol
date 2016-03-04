@@ -84,3 +84,65 @@ body{
     left: 33px;
     bottom: 25px;
 }
+/*slide 2*/
+#img15{
+	position: absolute;
+    top: 170px;
+    right: 85px;
+}
+#img08{
+	position: absolute;
+    top: 255px;
+    right: 375px;
+}
+#img09{
+	position: absolute;
+    top: 337px;
+    right: 367px;
+}
+#img10{
+	position: absolute;
+    top: 426px;
+    right: 324px;
+}
+#img11{
+	position: absolute;
+    top: 522px;
+    right: 422px;
+}
+#img12{
+	position: absolute;
+    top: 614px;
+    right: 102px;
+}
+#img14{
+	position: absolute;
+    bottom: 33px;
+    left: 42px;
+}
+#img13{
+	position: absolute;
+    bottom: 277px;
+    left: 179px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

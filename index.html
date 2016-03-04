@@ -8,7 +8,7 @@
 	<link rel="stylesheet" type="text/css" href="css/delays.css">
 	<script src="js/modernizr.custom.js"></script>
 </head>
-<body>
+<body id="touch">
 	<div id="contenedor">
 		<div id="btnSiguiente" class="animated fadeInDown"><a href="slide_1.html"><img src="genericos/next.png"></a></div>
 		<!--Menu-->
@@ -21,6 +21,15 @@
 
 
 	</div>	
+	<script type="text/javascript" src="js/hammer.min.js"></script>
+  	<script>
+    
+    Hammer(document.getElementById('touch')).on('swipeleft', function(e) {
+           window.location.href = "slide_1.html";
+    });
+   
+
+  	</script>
 
 
 </body>
