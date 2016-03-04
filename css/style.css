@@ -28,3 +28,59 @@ body{
     top: 300px;
     left: 42px;
 }
+#trigger-overlay {
+	height: 49px;
+	left: 40px;
+	position: absolute;
+	top: 24px;
+	width: 49px;
+	background: url(../genericos/hambuguesa.png) no-repeat center center;
+	overflow: hidden;
+	border: none;
+}
+/*slide 1*/
+#home{
+	position: absolute;
+    top: 40px;
+    right: 100px;
+}
+#btnAnterior{
+	position: absolute;
+    top: 40px;
+    right: 180px;
+}
+#img03{
+	position: absolute;
+    left: 0;
+    top: 129px;
+}
+#img02{
+	position: absolute;
+    right: 40px;
+    top: 215px;
+}
+#img01{
+	position: absolute;
+	top: 223px;
+    right: 73px;
+}
+#img05{
+	position: absolute;
+    top: 471px;
+    left: 29px;
+}
+#img07{
+	position: absolute;
+    right: 137px;
+    bottom: 122px;
+}
+#img06{
+	position: absolute;
+    top: 151px;
+    right: 187px;
+}
+#img04{
+	position: absolute;
+    left: 33px;
+    bottom: 25px;
+}
