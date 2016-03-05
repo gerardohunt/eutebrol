@@ -214,9 +214,34 @@ body{
     top: 359px;
     left: 102px;
 }
-
-
-
-
-
-
+/*sdeli 5*/
+#img32{
+    position: absolute;
+    right: 41px;
+    bottom: 123px;
+}
+#img33{
+    position: absolute;
+    right: 95px;
+    bottom: 92px;
+}
+#img34{
+    position: absolute;
+    right: 111px;
+    bottom: 237px;
+}
+#img35{
+    position: absolute;
+    right: 126px;
+    bottom: 232px;
+}
+#img37{
+    position: absolute;
+    left: 0;
+    top: 149px;
+}
+#img38{
+    position: absolute;
+    left: 80px;
+    top: 483px;
+}
