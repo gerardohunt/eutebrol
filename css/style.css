@@ -178,15 +178,42 @@ body{
 }
 #img23{
 	position: absolute;
-    bottom: 5px;
-    left: 20px;
+    bottom: 4px;
+    left: 184px;
 }
 
+/*slide 4*/
+#img30{
+    position: absolute;
+    top: 135px;
+    left: 265px;
+}
+#img26{
+    position: absolute;
+    top: 196px;
+    left: 419px;
+}
 
-
-
-
-
+#img31{
+    position: absolute;
+    top: 216px;
+    left: 442px;
+}
+#img28{
+    position: absolute;
+    top: 181px;
+    left: 801px;
+}
+#img29{
+    position: absolute;
+    top: 440px;
+    left: 921px;
+}
+#img27{
+    position: absolute;
+    top: 359px;
+    left: 102px;
+}
 
 
 
