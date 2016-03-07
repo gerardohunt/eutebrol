@@ -11,11 +11,70 @@ body{
 	position: relative;
 	width: 1280px;
 }
+.overlay {
+    position: absolute;
+    width: 1280px;
+    height: 752px;
+    margin-left:-640px;
+    top: 0;
+    left: 50%;
+    background-color: #E3E2E2;
+}
 /*PORTADA*/
 #fondo{
 	position: absolute;
 	bottom: 0;
 	right: 0;
+}
+/* Effects */
+.overlay-hugeinc {
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: opacity 0.5s, visibility 0s 0.5s;
+    transition: opacity 0.5s, visibility 0s 0.5s;
+}
+
+.overlay-hugeinc.open {
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.5s;
+    transition: opacity 0.5s;
+}
+.overlay .overlay-close {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    /*right: 20px;*/
+    left:346px;
+    top: 110px;
+    /*overflow: hidden;*/
+    border: none;
+    background: url(../menu/close.png) no-repeat center center;
+    /*text-indent: 200%;*/
+    color: transparent;
+    outline: none;
+    z-index: 100;
+}
+/*menu*/
+#opcion1, #opcion2, #opcion3, #opcion4, #opcion5, #opcion6, #opcion7, #opcion8, #opcion9, #opcion10, #opcion11{
+    line-height: 0;
+}
+/*menu*/
+
+#LogoMenu{
+    position: absolute;
+    bottom: 60px;
+    right: 50px;
+}
+#menus{
+    position: absolute;
+    left: 352px;
+    top: 202px;
+}
+#menutitulo{
+    position: absolute;
+    left: 430px;
+    top: 135px;
 }
 #btnSiguiente{
 	position: absolute;
