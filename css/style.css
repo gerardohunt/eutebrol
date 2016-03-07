@@ -383,10 +383,37 @@ body{
     top: 472px;
 }
 
-
-
-
-
+/* slide 10*/
+#img67{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+#img69{
+    position: absolute;
+    left: 0;
+    bottom: 317px;
+}
+#img68{
+    position: absolute;
+    right: 118px;
+    top: 195px;
+}
+#img70{
+    position: absolute;
+    bottom: 64px;
+    left: 33px;
+}
+#img72{
+    position: absolute;
+    right: 170px;
+    top: 173px;
+}
+#img71{
+    position: absolute;
+    right: 278px;
+    top: 125px;
+}
 
 
 

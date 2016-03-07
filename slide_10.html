@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Eutebrol</title>
+	<link rel="stylesheet" type="text/css" href="css/animate.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/delays.css">
+  <link rel="stylesheet" type="text/css" href="css/lightbox.css">
+	<script src="js/modernizr.custom.js"></script>
+</head>
+<body id="touch">
+	<div id="contenedor">
+		<!--Menu-->
+		<div id="btnSiguiente" class="animated fadeInDown"><a href="slide_10.html"><img src="genericos/next.png"></a></div>
+		<div id="home" class="animated fadeIn"><a href="index.html"><img src="genericos/home.png"></a></div>
+		<div id="btnAnterior" class="animated fadeInDown"><a href="slide_8.html"><img src="genericos/back.png"></a></div>
+
+		 <button type="button" id="trigger-overlay" class="animated fadeInLeft"></button>
+
+		<!--Menu-->
+
+   
+		<div id="img67" class="animated fadeInUp"> <img src="slide10/fondo.png"></div>
+      <div id="img68" class="animated zoomIn">
+      <a class="example-image-link" href="slide10/graficaLG.jpg" data-lightbox="lightbox">
+        <img src="slide10/grafica.png" >
+      </a>
+    </div>
+		<div id="img69" class="animated fadeInLeft"> <img src="slide10/logo.png"></div>
+
+
+
+		<div id="img70" class="animated fadeIn"> <img src="slide10/txt-1.png"></div>
+		<div id="img71" class="animated fadeIn"> <img src="slide10/txt-2.png"></div>
+   
+		<div id="img72" class="animated fadeInUp"> <img src="slide10/txt-3.png"></div>
+
+    
+
+
+
+	</div>	
+	<!--<div class="overlay overlay-hugeinc">
+    <button type="button" id="close" class="overlay-close">Close</button>
+    
+      <div id="menutitulo"><a href="#"><img src="Slide7/Txt_1.png" style="width:75px; height:23px"></a></div>
+      <div id="fondo"><img src="Slide7/Imag_1.png" style="height: 768px;width: 1024px;"></div>
+      <div id="menuprincipal" class="animate fadeInUp">
+
+
+
+      <div id="opcion1"><a href="slide_1.html"><img src="Slide7/Boton_1.png" style="width:498.5px; height:50.5px"></a></div>
+
+      <div id="opcion2"><a href="slide_2.html"><img src="Slide7/Boton_2.png" style="width:498.5px; height:50.5px"></a></div>
+
+      <div id="opcion3"><a href="slide_3.html"><img src="Slide7/Boton_3.png" style="width:498.5px; height:50.5px"></a></div>
+
+      <div id="opcion4"><a href="slide_4.html"><img src="Slide7/Boton_4.png" style="width:498.5px; height:50.5px"></a></div>
+
+      <div id="opcion5"><a href="slide_6.html"><img src="Slide7/Boton_5.png" style="width:498.5px; height:50.5px"></a></div>
+      
+    </div>
+     <div id="logo" class="animated fadeInUp"><img src="General/LogoHelleva.png" style="height: 75.5px;width: 152.5px;"></div>
+
+    </div>-->
+    <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+  	<script src="js/lightbox.js"></script>
+  	<script src="js/classie.js"></script>
+    <!--<script src="js/demo1.js"></script>-->
+  	<script type="text/javascript" src="js/hammer.min.js"></script>
+  	<script>
+    
+    Hammer(document.getElementById('touch')).on('swipeleft', function(e) {
+           window.location.href = "slide_10.html";
+    });
+    Hammer(document.getElementById('touch')).on('swiperight', function(e) {
+           window.location.href = "slide_8.html";
+    });
+
+  	</script>
+
+
+</body>
+</html>
