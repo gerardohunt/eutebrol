@@ -45,7 +45,7 @@ body{
     height: 80px;
     position: absolute;
     /*right: 20px;*/
-    left:346px;
+    left:292px;
     top: 110px;
     /*overflow: hidden;*/
     border: none;
@@ -68,18 +68,18 @@ body{
 }
 #menus{
     position: absolute;
-    left: 352px;
+    left: 310px;
     top: 202px;
 }
 #menutitulo{
     position: absolute;
-    left: 430px;
+    left: 383px;
     top: 135px;
 }
 #btnSiguiente{
 	position: absolute;
     right: 50px;
-    top: 40px;
+    top: 24px;
 
 }
 #Logo{
@@ -100,12 +100,12 @@ body{
 /*slide 1*/
 #home{
 	position: absolute;
-    top: 40px;
+    top: 24px;
     right: 100px;
 }
 #btnAnterior{
 	position: absolute;
-    top: 40px;
+    top: 24px;
     right: 180px;
 }
 #img03{
@@ -186,8 +186,8 @@ body{
 }
 #logo1{
 	position: absolute;
-    top: 20px;
-    left: 567px;
+    top: 24px;
+    left: 500px;
 }
 
 /*slide 3*/
@@ -507,7 +507,7 @@ body{
 #img79{
     position: absolute;
     top: 63px;
-    left: 423px;
+    left: 345px;
 }
 /* slide 12*/
 #img82{
