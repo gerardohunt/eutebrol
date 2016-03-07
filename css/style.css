@@ -351,12 +351,37 @@ body{
     left: 559px;
     top: 438px;
 }
+#img64{
+    position: absolute;
+    left: 0;
+    top: 128px;
+}
 
-
-
-
-
-
+#img66{
+    position: absolute;
+    right: 141px;
+    top: 200px;
+}
+#img61{
+    position: absolute;
+    right: 50px;
+    top: 262px;
+}
+#img62{
+    position: absolute;
+    right: 76px;
+    top: 353px;
+}
+#img63{
+    position: absolute;
+    right: 119px;
+    top: 446px;
+}
+#img65{
+    position: absolute;
+    left: 119px;
+    top: 472px;
+}
 
 
 
