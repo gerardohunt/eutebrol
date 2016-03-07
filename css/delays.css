@@ -69,11 +69,10 @@
 	animation-delay: 1.9s;
 	animation-duration: 4s;
  }
- #img08, #img24,#img26, #img38, #img32, #img39, #img53, #img55{
+ #img08, #img24,#img26,  #img32, #img39, #img53, #img55{
 	-webkit-animation-delay: 2.2s;
 	-o-animation-delay: 2.2s;
 	animation-delay: 2.2s;
-	animation-duration: 2s;
 }
 #img66{
 	-webkit-animation-delay: 2.2s;
@@ -100,22 +99,31 @@
 	-webkit-animation-delay: 3s;
 	-o-animation-delay: 3s;
 	animation-delay: 3s;
-	animation-duration: 2s;
 }
-#img41, #img50, #img57, #img62, #img72{
+#img41, #img50, #img57, #img62, #img38{
 	-webkit-animation-delay: 3.2s;
 	-o-animation-delay: 3.2s;
 	animation-delay: 3.2s;
 }
-#img11, #img20, #img28, #img49, #img52, #img68{
+#img11, #img20, #img28, #img72{
 	-webkit-animation-delay: 3.4s;
 	-o-animation-delay: 3.4s;
 	animation-delay: 3.4s;
 }
-#img12, #img21, #img29, #img35, #img42, #img58, #img63{
+#img49{
+	-webkit-animation-delay: 3.6s;
+	-o-animation-delay: 3.6s;
+	animation-delay: 3.6s;
+}
+#img12, #img21, #img29, #img35, #img42, #img58, #img63, #img68{
 	-webkit-animation-delay: 3.8s;
 	-o-animation-delay: 3.8s;
 	animation-delay: 3.8s;
+}
+#img52{
+	-webkit-animation-delay: 4s;
+	-o-animation-delay: 4s;
+	animation-delay: 4s;
 }
  #img06
 {
@@ -123,12 +131,12 @@
 	-o-animation-delay: 2.2s;
 	animation-delay: 2.2s;
 }
-#img02, #img22{
+#img02{
 	-webkit-animation-delay: 2.6s;
 	-o-animation-delay: 2.6s;
 	animation-delay: 2.6s;
 }
-#img01, #img13, #img16, #img23{
+#img01, #img13,  #img23{
 	-webkit-animation-delay: 3.4s;
 	-o-animation-delay: 3.4s;
 	animation-delay: 3.4s;
@@ -144,7 +152,7 @@
 	animation-delay: 3.5s;
 	animation-duration: 2s;
 }
-#img07, #img46{
+#img07{
 	-webkit-animation-delay: 3.9s;
 	-o-animation-delay: 3.9s;
 	animation-delay: 3.9s;
@@ -154,7 +162,12 @@
 	-o-animation-delay: 4.2s;
 	animation-delay: 4.2s;
 }
-#img83{
+#img46{
+	-webkit-animation-delay: 4.4s;
+	-o-animation-delay: 4.4s;
+	animation-delay: 4.4s;
+}
+#img83,#img22{
 	-webkit-animation-delay: 4.6s;
 	-o-animation-delay: 4.6s;
 	animation-delay: 4.6s;
