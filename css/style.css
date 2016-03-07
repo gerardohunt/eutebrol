@@ -284,3 +284,39 @@ body{
     left: 281px;
     bottom: 9px;
 }
+/*s deli 7*/
+#img50{
+    position: absolute;
+    right: 0;
+    top: 155px;
+}
+#img51{
+    position: absolute;
+    top: 155px;
+    left: 40px;
+}
+#img53{
+    position: absolute;
+    left: 133px;
+    top: 330px;
+}
+#img47{
+    position: absolute;
+    left: 190px;
+    top: 405px;
+}
+#img48{
+    position: absolute;
+    left: 190px;
+    top: 498px;
+}
+#img49{
+    position: absolute;
+    left: 190px;
+    top: 595px;
+}
+#img52{
+    position: absolute;
+    left: 58px;
+    bottom: 22px;
+}
