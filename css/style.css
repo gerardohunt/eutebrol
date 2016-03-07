@@ -450,11 +450,32 @@ body{
     top: 63px;
     left: 423px;
 }
-
-
-
-
-
+/* slide 12*/
+#img82{
+    position: absolute;
+    top: 100px;
+    left: 177px;
+}
+#img84{
+    position: absolute;
+    top: 331px;
+    left: 358px;
+}
+#img81{
+    position: absolute;
+    top: 498px;
+    left: 3px;
+}
+#img80{
+    position: absolute;
+    top: 626px;
+    left: 33px;
+}
+#img83{
+    position: absolute;
+    top: 642px;
+    left: 360px;
+}
 
 
 
